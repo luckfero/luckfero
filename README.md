@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=ff00c3&duration=4000&lines=Hi+There!+👋;+I'm+Lucca+Oliveira!;" />
 </h1>
 
-<h3 align="center">A front-end developer from Brazil </h3>
+<h3 align="center">A front-end developer from Brazil ᴮᴿ </h3>
 
 <br/>
 
