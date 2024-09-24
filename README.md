@@ -4,15 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=ff00c3&duration=4000&lines=Hi+There!+👋;+I'm+Lucca+Oliveira!;" />
 </h1>
 
-<h3 align="center">A front-end developer from Brazil ᴮᴿ </h3>
+<h3 align="center">Welcome to my Github profile! </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Enactus Mauá**
+🔭 I’m currently working on **Enactus Mauá**
+
+🧑🏻‍💻 I’m currently studying Computer Science at the **Mauá Institute of Technology (IMT)** 
  
- 🌱 I’m currently learning **React Native, Expo, API**
+💡 I’m currently learning **React Native, Expo, API**
 
 ⚡ Fun fact **I play several instruments!**
 
@@ -29,11 +31,29 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💻 Languages 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,python,java,mysql,dart,flutter" /><br>
+    
+</div>
+<h2 align="center">📚 Frameworks and Platforms📚</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,vscode,github,figma,git,discord" /><br>
+    
+</div>
+<h2 align="center">⚒️ Tools and Design 🎨</h2>
+<br/>
+<div align="center">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    
+<br>
+    
 </div>
 
 <br/>
