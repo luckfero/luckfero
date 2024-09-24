@@ -38,7 +38,7 @@
 <h2 align="center">📚 Frameworks and Platforms 📚</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,vscode,github,figma,git,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,vscode,github,git,discord" /><br>
     
 </div>
 <h2 align="center">⚒️ Tools and Design 🎨</h2>
