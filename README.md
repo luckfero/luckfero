@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href="mailto:luccaoliveira123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=Red" />
   </a>
     <br>
   <a href="https://www.linkedin.com/in/luccadesouzaoliveira" target="_blank">
