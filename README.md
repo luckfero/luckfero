@@ -6,8 +6,6 @@
 
 <h3 align="center">Welcome to my Github profile! </h3>
 
-<br/>
-
 <div align="center">
  
 🔭 I’m currently working on **Enactus Mauá**
@@ -16,12 +14,12 @@
  
 💡 I’m currently learning **React Native, Expo, API**
 
-⚡ Fun fact **I play several instruments!**
+🎸 Fun fact **I play several instruments!**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:luccaassoc@gmail.com">
+  <a href="mailto:luccaoliveira123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/luccadesouzaoliveira" target="_blank">
@@ -37,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,python,java,mysql,dart,flutter" /><br>
     
 </div>
-<h2 align="center">📚 Frameworks and Platforms📚</h2>
+<h2 align="center">📚 Frameworks and Platforms 📚</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,vscode,github,figma,git,discord" /><br>
